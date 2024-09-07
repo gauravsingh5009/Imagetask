@@ -29,7 +29,7 @@ const Search = () => {
         <div className="profile">
             <p>Name: Gaurav Singh</p>
             <p>Email: 2000gauravjnp@gmail.com</p>
-            <p>Github-Link: <a href="https://github.com/gauravsingh5009/Imagetask">Click here to Show Code</a></p>
+            <p>Github-Link: <a href="https://github.com/gauravsingh5009/Imagetask">Click here to See Code</a></p>
           </div>
         <div className="search">
           <h1>Task For React Developer</h1>
