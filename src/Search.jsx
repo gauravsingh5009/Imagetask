@@ -26,7 +26,11 @@ const Search = () => {
 
   return (
     <>
-      
+        <div className="profile">
+            <p>Name: Gaurav Singh</p>
+            <p>Email: 2000gauravjnp@gmail.com</p>
+            <p>Github-Link:https://github.com/gauravsingh5009/Imagetask</p>
+          </div>
         <div className="search">
           <h1>Task For React Developer</h1>
           <div className="form">

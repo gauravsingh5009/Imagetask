@@ -84,7 +84,7 @@ const Caption = () => {
                 <label className="cap" htmlFor="caption">Add Caption</label>
                 <textarea
                   name="caption"
-                  rows="2"
+                  rows="17"
                   cols="50"
                   value={caption}
                   onChange={(e) => setCaption(e.target.value)}
