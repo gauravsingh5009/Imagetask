@@ -1,5 +1,5 @@
 *,::before,::after{padding: 0; margin: 0;}
-#root {background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%, #fe99ff 100%);}
+body{background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%, #fe99ff 100%);}
 .profile{background: #fecfef; color: #2c2c2c; font: 400 16px/25px sans-serif; padding: 10px; text-align: center;}
 .search{background: skyblue; padding: 10px; display: flex; align-items: center; justify-content: space-around;}
 .search h1{font: 400 32px sans-serif;}
